@@ -1,0 +1,6 @@
+project 'HttpsDemo.xcodeproj'
+platform :ios, '7.0'
+target 'HttpsDemo' do 
+pod 'AFNetworking', '~> 3.1.0'
+end
+
